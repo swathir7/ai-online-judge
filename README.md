@@ -100,3 +100,5 @@ JWT_SECRET=yoursupersecretkey
 
 # Your Google Gemini API Key
 GEMINI_API_KEY=your key
+# ai-online-judge
+4993f4b6d1b9413ec3a38e91bbf4167456842d29
